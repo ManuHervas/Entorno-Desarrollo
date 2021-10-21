@@ -1,16 +1,14 @@
-rober wido mi dios, hasbulla mi mesias
-
 Ejercicios Entorno de Desarrollo:
 
 Lenguajes de programación
 
-¿Qué diferencia existe entre los lenguajes declarativos y los imperativos?. Nombra al menos 2 de cada tipo.
+1- ¿Qué diferencia existe entre los lenguajes declarativos y los imperativos?. Nombra al menos 2 de cada tipo.
 
 Los imperativos te indican los pasos a seguir para obtener un resultado mientras que 
 los declarativos indicamos el resultado sin especificar ningún paso.
 Declarativos tenemos SQL, QML e imperativos C + + y java.
 
-¿Explica qué es compilar? ¿Explica qué es interpretar?
+2- ¿Explica qué es compilar? ¿Explica qué es interpretar?
 	
 Compilar es pasar un programa entero de un lenguaje de programación a otro     directamente, normalmente en código máquina.
 Interpretar es un programa informático para analizar y ejecutar otros programas.
