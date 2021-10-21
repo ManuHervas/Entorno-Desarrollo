@@ -13,30 +13,30 @@ Declarativos tenemos SQL, QML e imperativos C + + y java.
 Compilar es pasar un programa entero de un lenguaje de programación a otro     directamente, normalmente en código máquina.
 Interpretar es un programa informático para analizar y ejecutar otros programas.
 
-Ventajas de los lenguajes compilados.
+3- Ventajas de los lenguajes compilados.
 
 Generalmente estos lenguajes suelen ser más rápidos a la hora de ejecutarse, pueden  separarse del entorno de desarrollo y ejecutarse de forma independiente en una plataforma específica.	
 
-Ventajas de los lenguajes interpretados.
+4- Ventajas de los lenguajes interpretados.
 
 Es independiente de la máquina y del sistema operativo ya que no contiene instrucciones propias de un procesador sino que contiene llamadas a funciones que el intérprete deberá reconocer.
 
-Nombra 2 lenguajes compilados y otros 2 interpretados.
+5- Nombra 2 lenguajes compilados y otros 2 interpretados.
 
 Compilados: Ruby MRI, Yarv.
 Interpretados: Python, C+ +.
 
-¿Puede considerarse código objeto el bytecode generado en Java tras la compilación? Explica la respuesta.
+6- ¿Puede considerarse código objeto el bytecode generado en Java tras la compilación? Explica la respuesta.
 
 Si, ya que es un archivo binario producido por el compilador cuyo contenido es el código objeto o código máquina.
 
-Pon un ejemplo de lenguaje de los siguientes tipos:
+7- Pon un ejemplo de lenguaje de los siguientes tipos:
 
 Bajo nivel. Código Máquina
 Nivel medio. C
 Alto nivel. Java
 
-¿Qué paradigma de programación siguen los siguientes lenguajes?
+8- ¿Qué paradigma de programación siguen los siguientes lenguajes?
 
 C: imperativo
 C++ : orientado a objetos, programación estructurada y genérica
@@ -49,7 +49,7 @@ Puedes consultar el siguiente enlace:
 
 https://es.wikipedia.org/wiki/Paradigma_de_programaci%C3%B3n
 
-Explica qué criterios pueden seguirse a la hora de elegir un lenguaje de programación para el desarrollo software.
+9- Explica qué criterios pueden seguirse a la hora de elegir un lenguaje de programación para el desarrollo software.
 
 Campo de aplicación 
 Experiencia previa
